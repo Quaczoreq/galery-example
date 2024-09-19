@@ -1,0 +1,58 @@
+* {
+    background-color: black;
+}
+div {
+    background-color: transparent;
+    font-size: 20px;
+    color: aliceblue;
+    padding: 2%;
+    margin: 3%;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 12px;
+    width: fit-content;
+    height: auto;
+}
+div:hover {
+    background-color: rgb(34, 34, 34);
+    transition-duration: 0.7s;
+    width: fit-content;
+    
+}
+
+body {
+    display: flex;
+    margin: 5px;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 2%;
+}
+.box-1 {
+    background-color: rgb(31, 65, 95);
+}
+.box-2 {
+    background-color: rgb(31, 92, 95);
+}
+.box-3 {
+    background-color: rgb(31, 95, 52);
+}
+.box-4 {
+    background-color: rgb(77, 95, 31);
+}
+.box-4 {
+    background-color: rgb(95, 83, 31);
+}
+.box-5 {
+    background-color: rgb(194, 83, 39);
+}
+.box-6 {
+    background-color: rgb(194, 39, 39);
+}
+.box-7 {
+    background-color: rgb(194, 39, 39);
+}
+.box-7 {
+    background-color: rgb(194, 39, 101);
+}
+.box-8 {
+    background-color: rgb(179, 39, 194);
+}
